@@ -1,0 +1,1 @@
+public class AmmoSpawner : SpawnerGeneric<Ammo> {}

@@ -1,0 +1,1 @@
+public class HitEffect : PoolableObject<HitEffect> {}

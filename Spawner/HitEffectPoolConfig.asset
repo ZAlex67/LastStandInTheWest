@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60c6b39a15ec1a845b3e8eb1c16de55c, type: 3}
+  m_Name: HitEffectPoolConfig
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: -4339139094824871433, guid: 48dcc28f65647464cae154cb106bbe5e, type: 3}
+  _defaultCapacity: 8
+  _maxSize: 50
+  _collectionCheck: 0
+  _warmUp: 1

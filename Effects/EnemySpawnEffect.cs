@@ -1,0 +1,1 @@
+public class EnemySpawnEffect : PoolableObject<EnemySpawnEffect> {}

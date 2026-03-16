@@ -1,0 +1,1 @@
+public class HitEffectSpawner : SpawnerGeneric<HitEffect> {}
