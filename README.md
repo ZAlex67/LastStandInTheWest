@@ -27,6 +27,31 @@ Each wave increases the challenge and tests the player's reaction speed and shoo
 * UI for health, ammo, and weapon slots
 * Enemy wave progression
 
+## Architecture
+
+The project is built using a modular gameplay architecture where different systems communicate through events instead of direct references.
+
+### Core Systems
+
+**Player System**
+* Handles player movement, shooting, and weapon switching.
+
+**Weapon System**
+* Responsible for weapon logic such as shooting, ammo usage, and weapon swapping.
+
+**Wave Manager**
+* Controls enemy spawning and wave progression.
+
+**Health System**
+* Reusable health component used by both player and enemies.
+
+**UI System**
+* Updates UI elements such as health, ammo, and score using event-driven updates.
+
+### Performance
+
+* Object pooling is used for frequently spawned objects such as enemies, ammo pickups, and effects in order to reduce runtime allocations and improve performance.
+
 ## Technical Systems
 
 The project focuses on modular gameplay systems and clean architecture.
