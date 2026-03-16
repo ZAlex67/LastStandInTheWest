@@ -47,10 +47,10 @@ Key systems implemented in the project:
 
 ## Controls
 
-WASD — Movement
-Mouse — Aim
-Left Mouse Button — Shoot
-1 / 2 — Switch weapon
+* WASD — Movement
+* Mouse — Aim
+* Left Mouse Button — Shoot
+* 1 / 2 — Switch weapon
 
 ## Project Structure
 
