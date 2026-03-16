@@ -2,6 +2,9 @@
 
 A fast-paced wave-based third-person shooter set in a Wild West environment.
 
+🎮 **Play the game:**
+https://zaagame.itch.io/last-stand-in-the-west
+
 The player must survive increasingly difficult waves of enemies while managing ammo, switching weapons, and maintaining accuracy under pressure.
 
 This project was created as a portfolio piece to demonstrate gameplay programming and system architecture in Unity.
